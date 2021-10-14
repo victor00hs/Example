@@ -1,0 +1,297 @@
+Created-At;From-User;From-User-Id;To-User;To-User-Id;Language;Source;Text;Geo-Location-Latitude;Geo-Location-Longitude;Retweet-Count;Id
+2021-03-01 12:45:38;Red_Exernet;1358823396751081475;;-1;es;"<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>";"RT @NoemiMtnezTevar: El #deporte ya es considerado actividad esencial. 
+Y hemos querido comprobar sus beneficios en un grupo muy especial:…";;;18,0;1366353934948970503
+2021-02-28 21:28:13;GARALEX_EU;173774467;;-1;es;"<a href=""http://twitter.com/download/android"" rel=""nofollow"">Twitter for Android</a>";RT @sistema_arText: El grupo Comunicación y Migraciones (@celiaricoperez, @fercobla, @guerra_salas...) de la @UEuropea ha creado varios rec…;;;13,0;1366123061670477827
+2021-03-03 15:54:20;Andrea Martinez;1235986687358099462;;-1;es;"<a href=""http://twitter.com/download/iphone"" rel=""nofollow"">Twitter for iPhone</a>";"RT @terapiamanualUE: ?? ¿Cuándo debe manipularse la columna torácica? 
+? Contraindicaciones:  osteomielitis, fractura y enfermedad metastás…";;;9,0;1367126199588188160
+2021-03-04 22:58:55;SportsMarketingTour;492412736;;-1;es;"<a href=""http://twitter.com/#!/download/ipad"" rel=""nofollow"">Twitter for iPad</a>";"RT @antoniolacasa: El día 10 participaré en la presentación del informe cualitativo ""Los esports en España: Presente y futuro"" realizado po…";;;7,0;1367595436589150209
+2021-03-04 22:58:20;JornadaDeporte;417233412;;-1;es;"<a href=""http://twitter.com/#!/download/ipad"" rel=""nofollow"">Twitter for iPad</a>";"RT @antoniolacasa: El día 10 participaré en la presentación del informe cualitativo ""Los esports en España: Presente y futuro"" realizado po…";;;7,0;1367595289100623874
+2021-03-04 22:56:35;Global Esports Summit®?;1010615854072025088;;-1;es;"<a href=""http://twitter.com/#!/download/ipad"" rel=""nofollow"">Twitter for iPad</a>";"RT @antoniolacasa: El día 10 participaré en la presentación del informe cualitativo ""Los esports en España: Presente y futuro"" realizado po…";;;7,0;1367594847805267980
+2021-03-04 22:55:01;Global Sportainment®;1492416397;;-1;es;"<a href=""http://twitter.com/#!/download/ipad"" rel=""nofollow"">Twitter for iPad</a>";"RT @antoniolacasa: El día 10 participaré en la presentación del informe cualitativo ""Los esports en España: Presente y futuro"" realizado po…";;;7,0;1367594455897960448
+2021-03-04 22:54:23;SportsMarketingForum;821918023;;-1;es;"<a href=""http://twitter.com/#!/download/ipad"" rel=""nofollow"">Twitter for iPad</a>";"RT @antoniolacasa: El día 10 participaré en la presentación del informe cualitativo ""Los esports en España: Presente y futuro"" realizado po…";;;7,0;1367594296963080193
+2021-03-04 15:21:46;Emilio Hurtado;814195658781560832;;-1;es;"<a href=""http://twitter.com/download/android"" rel=""nofollow"">Twitter for Android</a>";"RT @antoniolacasa: El día 10 participaré en la presentación del informe cualitativo ""Los esports en España: Presente y futuro"" realizado po…";;;7,0;1367480389779025927
+2021-03-04 13:00:11;????.SaR?VaR.????;1152507354895790081;;-1;es;"<a href=""http://twitter.com/download/android"" rel=""nofollow"">Twitter for Android</a>";"RT @antoniolacasa: El día 10 participaré en la presentación del informe cualitativo ""Los esports en España: Presente y futuro"" realizado po…";;;7,0;1367444762178031617
+2021-03-04 12:33:51;Antonio Lacasa;101005639;;-1;es;"<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>";"El día 10 participaré en la presentación del informe cualitativo ""Los esports en España: Presente y futuro"" realizado por la @RealMadridUE de la @UEuropea en la que @GEsportsSummit ha colaborado
+???? Miércoles 10 de marzo
+??? 18:00 Hs
+ https://t.co/FXkW8tVmQ1";;;7,0;1367438133814509575
+2021-03-01 10:03:57;Laura Monclus Rincon;2895191181;;-1;es;"<a href=""http://twitter.com/download/android"" rel=""nofollow"">Twitter for Android</a>";RT @emmacelope: El próximo jueves 4 de marzo a las 17:30 tendrá lugar una conferencia ofrecida por @ellasvuelanalto  para los estudiantes d…;;;7,0;1366313246274310144
+2021-02-28 15:30:26;Walter Maes;168272647;;-1;es;"<a href=""http://twitter.com/download/android"" rel=""nofollow"">Twitter for Android</a>";RT @emmacelope: El próximo jueves 4 de marzo a las 17:30 tendrá lugar una conferencia ofrecida por @ellasvuelanalto  para los estudiantes d…;;;7,0;1366033019388252165
+2021-02-28 14:44:39;Floren León ????;265404655;;-1;es;"<a href=""http://twitter.com/download/iphone"" rel=""nofollow"">Twitter for iPhone</a>";RT @emmacelope: El próximo jueves 4 de marzo a las 17:30 tendrá lugar una conferencia ofrecida por @ellasvuelanalto  para los estudiantes d…;;;7,0;1366021497299628033
+2021-02-28 14:35:06;Teresa Busto;1048631148614750208;;-1;es;"<a href=""http://twitter.com/download/android"" rel=""nofollow"">Twitter for Android</a>";RT @emmacelope: El próximo jueves 4 de marzo a las 17:30 tendrá lugar una conferencia ofrecida por @ellasvuelanalto  para los estudiantes d…;;;7,0;1366019096068972546
+2021-02-28 10:48:53;Daniel González;291030512;;-1;es;"<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>";RT @emmacelope: El próximo jueves 4 de marzo a las 17:30 tendrá lugar una conferencia ofrecida por @ellasvuelanalto  para los estudiantes d…;;;7,0;1365962165035929603
+2021-02-27 21:06:16;Bárbara Trincado;302261044;;-1;es;"<a href=""http://twitter.com/download/iphone"" rel=""nofollow"">Twitter for iPhone</a>";RT @emmacelope: El próximo jueves 4 de marzo a las 17:30 tendrá lugar una conferencia ofrecida por @ellasvuelanalto  para los estudiantes d…;;;7,0;1365755148551733248
+2021-02-27 19:05:35;Ellasvuelanalto;905719502264037376;;-1;es;"<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>";RT @emmacelope: El próximo jueves 4 de marzo a las 17:30 tendrá lugar una conferencia ofrecida por @ellasvuelanalto  para los estudiantes d…;;;7,0;1365724776807989252
+2021-02-27 13:05:16;Emma C. Lope;1013175657310941185;;-1;es;"<a href=""http://twitter.com/download/iphone"" rel=""nofollow"">Twitter for iPhone</a>";"El próximo jueves 4 de marzo a las 17:30 tendrá lugar una conferencia ofrecida por @ellasvuelanalto  para los estudiantes de la @UEuropea 
+
+Una gran oportunidad para los estudiantes de contactar con mujeres de alto prestigio del sector.
+
+Inscripción en https://t.co/8xYR92KJl7 https://t.co/hHQUYBY0VY";;;7,0;1365634098673442816
+2021-02-28 11:04:07;Haciendo Historia;911685643608174592;;-1;es;"<a href=""http://twitter.com/download/iphone"" rel=""nofollow"">Twitter for iPhone</a>";RT @bmonte66: @DavidBotello4 @OtraHistoriaTM @ondamadrid @juanjoceballos @CSanchez_Risco @sariperli @GuilleGamboaMon @aariztoy @espeversity…;;;6,0;1365965998369759233
+2021-02-28 10:41:44;Carmen Sánchez-Risco;410740547;;-1;es;"<a href=""http://twitter.com/download/iphone"" rel=""nofollow"">Twitter for iPhone</a>";RT @bmonte66: @DavidBotello4 @OtraHistoriaTM @ondamadrid @juanjoceballos @CSanchez_Risco @sariperli @GuilleGamboaMon @aariztoy @espeversity…;;;6,0;1365960367243993091
+2021-02-28 10:39:05;Esperanza ??????;107779004;;-1;es;"<a href=""http://twitter.com/download/android"" rel=""nofollow"">Twitter for Android</a>";RT @bmonte66: @DavidBotello4 @OtraHistoriaTM @ondamadrid @juanjoceballos @CSanchez_Risco @sariperli @GuilleGamboaMon @aariztoy @espeversity…;;;6,0;1365959698697113602
+2021-02-28 10:08:54;Esto es otra Historia TM;3021672539;;-1;es;"<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>";RT @bmonte66: @DavidBotello4 @OtraHistoriaTM @ondamadrid @juanjoceballos @CSanchez_Risco @sariperli @GuilleGamboaMon @aariztoy @espeversity…;;;6,0;1365952104783896576
+2021-02-28 10:08:22;Esther Sánchez;946758764;;-1;es;"<a href=""http://twitter.com/download/android"" rel=""nofollow"">Twitter for Android</a>";RT @bmonte66: @DavidBotello4 @OtraHistoriaTM @ondamadrid @juanjoceballos @CSanchez_Risco @sariperli @GuilleGamboaMon @aariztoy @espeversity…;;;6,0;1365951968997482500
+2021-02-28 10:05:57;David Botello;551517133;;-1;es;"<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>";RT @bmonte66: @DavidBotello4 @OtraHistoriaTM @ondamadrid @juanjoceballos @CSanchez_Risco @sariperli @GuilleGamboaMon @aariztoy @espeversity…;;;6,0;1365951362664660993
+2021-02-28 09:56:19;begomon;302925882;DavidBotello4;551517133;es;"<a href=""http://twitter.com/download/android"" rel=""nofollow"">Twitter for Android</a>";@DavidBotello4 @OtraHistoriaTM @ondamadrid @juanjoceballos @CSanchez_Risco @sariperli @GuilleGamboaMon @aariztoy @espeversity @EdgarmjDirector @estesan1969 @UEuropea @HHistoriaTV Comando historia al ataque para hacernos vivir grandes aventuras!! Gracias.;;;6,0;1365948935886544896
+2021-03-06 10:46:44;Rutinoterapia | Escuela de Pacientes Oncológicos;1092432730892263426;;-1;es;"<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>";"RT @ffpaciente: Conexión Paciente Oncológico @UEuropea @RespSocialUE @soriano @rutinoterapia  @_SEEO_ 
+???¿¿En qué momento tenemos que propo…";;;5,0;1368135952833581060
+2021-03-05 20:15:07;Nuria Domenech;2537713571;;-1;es;"<a href=""http://twitter.com/download/iphone"" rel=""nofollow"">Twitter for iPhone</a>";"RT @ffpaciente: Conexión Paciente Oncológico @UEuropea @RespSocialUE @soriano @rutinoterapia  @_SEEO_ 
+???¿¿En qué momento tenemos que propo…";;;5,0;1367916601257951233
+2021-03-05 19:35:05;Beatriz Cuñado ??;562917861;;-1;es;"<a href=""http://twitter.com/download/android"" rel=""nofollow"">Twitter for Android</a>";"RT @ffpaciente: Conexión Paciente Oncológico @UEuropea @RespSocialUE @soriano @rutinoterapia  @_SEEO_ 
+???¿¿En qué momento tenemos que propo…";;;5,0;1367906528783708164
+2021-03-05 17:47:36;Enfermería Oncológica;814766907006087172;;-1;es;"<a href=""http://twitter.com/download/iphone"" rel=""nofollow"">Twitter for iPhone</a>";"RT @ffpaciente: Conexión Paciente Oncológico @UEuropea @RespSocialUE @soriano @rutinoterapia  @_SEEO_ 
+???¿¿En qué momento tenemos que propo…";;;5,0;1367879479130025984
+2021-03-05 16:51:18;Arantxa Sáez ??????+??+ ????????????????+??;347796969;;-1;es;"<a href=""http://twitter.com/#!/download/ipad"" rel=""nofollow"">Twitter for iPad</a>";"RT @ffpaciente: Conexión Paciente Oncológico @UEuropea @RespSocialUE @soriano @rutinoterapia  @_SEEO_ 
+???¿¿En qué momento tenemos que propo…";;;5,0;1367865309114294281
+2021-03-05 16:30:00;#FFPaciente;3964381883;;-1;es;"<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>";"Conexión Paciente Oncológico @UEuropea @RespSocialUE @soriano @rutinoterapia  @_SEEO_ 
+???¿¿En qué momento tenemos que proporcionar los cuidados??
+???¿¿Cuál es la mejor manera de hacerlo??  La enfermera especialista en oncología @domenech_nuria 
+https://t.co/XgVGF3OMke
+#FFpaciente https://t.co/EbZIwN9x6S";;;5,0;1367859950970490880
+2021-02-28 20:37:55;Pedro;822585503400792064;;-1;es;"<a href=""http://twitter.com/download/android"" rel=""nofollow"">Twitter for Android</a>";"RT @DavidBotello4: ESTO ES OTRA HISTORIA DEL TEATRO EN MADRID
+Rosa Gonzáles, estudiante de la @UEuropea, nos habla del teatro de denuncia s…";;;5,0;1366110401621086208
+2021-02-27 16:17:57;Esto es otra Historia TM;3021672539;;-1;es;"<a href=""http://twitter.com/download/iphone"" rel=""nofollow"">Twitter for iPhone</a>";"RT @DavidBotello4: ESTO ES OTRA HISTORIA DEL TEATRO EN MADRID
+Rosa Gonzáles, estudiante de la @UEuropea, nos habla del teatro de denuncia s…";;;5,0;1365682590942953476
+2021-02-27 16:11:09;Yolanda Rocha Moreno;167496092;;-1;es;"<a href=""http://twitter.com/download/android"" rel=""nofollow"">Twitter for Android</a>";"RT @DavidBotello4: ESTO ES OTRA HISTORIA DEL TEATRO EN MADRID
+Rosa Gonzáles, estudiante de la @UEuropea, nos habla del teatro de denuncia s…";;;5,0;1365680881042677765
+2021-02-27 15:51:08;Esther Sánchez;946758764;;-1;es;"<a href=""http://twitter.com/download/iphone"" rel=""nofollow"">Twitter for iPhone</a>";"RT @DavidBotello4: ESTO ES OTRA HISTORIA DEL TEATRO EN MADRID
+Rosa Gonzáles, estudiante de la @UEuropea, nos habla del teatro de denuncia s…";;;5,0;1365675841053728779
+2021-02-27 15:40:11;Haciendo Historia;911685643608174592;;-1;es;"<a href=""http://twitter.com/download/iphone"" rel=""nofollow"">Twitter for iPhone</a>";"RT @DavidBotello4: ESTO ES OTRA HISTORIA DEL TEATRO EN MADRID
+Rosa Gonzáles, estudiante de la @UEuropea, nos habla del teatro de denuncia s…";;;5,0;1365673086574592001
+2021-02-27 13:54:23;David Botello;551517133;DavidBotello4;551517133;es;"<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>";"ESTO ES OTRA HISTORIA DEL TEATRO EN MADRID
+Rosa Gonzáles, estudiante de la @UEuropea, nos habla del teatro de denuncia social de Buero Vallejo y de los problemas con la censura y con el público.
+#ConcepciónArenal @OtraHistoriaTM @ondamadrid 
+https://t.co/Mh4rQqTpfy
+101.3 y 106 FM https://t.co/71aWiGMEMu";;;5,0;1365646459987783683
+2021-03-04 22:52:35;gonzalo vdf;723932341064884228;;-1;es;"<a href=""http://twitter.com/download/iphone"" rel=""nofollow"">Twitter for iPhone</a>";RT @terapiamanualUE: Termina hoy un gran seminario de Educación Terapéutica en Dolor, con el profesor Juan Montaño y nuestro fantástico gru…;;;4,0;1367593843294543874
+2021-03-04 22:29:26;Elu Sanchez Romero;1367059152;;-1;es;"<a href=""http://twitter.com/download/iphone"" rel=""nofollow"">Twitter for iPhone</a>";RT @terapiamanualUE: Termina hoy un gran seminario de Educación Terapéutica en Dolor, con el profesor Juan Montaño y nuestro fantástico gru…;;;4,0;1367588015321747457
+2021-03-04 19:18:20;Sebastián Martín-Pérez;913788360233189376;;-1;es;"<a href=""http://twitter.com/download/iphone"" rel=""nofollow"">Twitter for iPhone</a>";RT @terapiamanualUE: Termina hoy un gran seminario de Educación Terapéutica en Dolor, con el profesor Juan Montaño y nuestro fantástico gru…;;;4,0;1367539924543672322
+2021-03-04 19:08:37;Terapia Manual UE;3218183229;;-1;es;"<a href=""http://twitter.com/download/iphone"" rel=""nofollow"">Twitter for iPhone</a>";"Termina hoy un gran seminario de Educación Terapéutica en Dolor, con el profesor Juan Montaño y nuestro fantástico grupo de Máster en Madrid @terapiamanualUE @UEuropea 
+
+¡Nos vemos este finde en Canarias! @UECanarias 
+#Educacion #Neurociencia #Dolor #Creciendo #Seguimos #Nonstop https://t.co/yWSAPU2M4T";;;4,0;1367537481189625862
+2021-03-04 02:32:15;Rafael Alberto Muñoz;864592664;;-1;es;"<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>";RT @ElPardo_Madrid: Premios Nacionales del #Deporte en #ElPardo: https://t.co/ZeqJwqGF8q @CasaReal @deportegob @Reginoherma @alejanvalverde…;;;4,0;1367286734912950275
+2021-03-03 08:57:40;AV de El Pardo;1872146311;;-1;es;"<a href=""http://twitter.com/download/android"" rel=""nofollow"">Twitter for Android</a>";RT @ElPardo_Madrid: Premios Nacionales del #Deporte en #ElPardo: https://t.co/ZeqJwqGF8q @CasaReal @deportegob @Reginoherma @alejanvalverde…;;;4,0;1367021342156083200
+2021-03-02 23:03:39;MariCarmen;485778035;;-1;es;"<a href=""http://twitter.com/download/android"" rel=""nofollow"">Twitter for Android</a>";RT @ElPardo_Madrid: Premios Nacionales del #Deporte en #ElPardo: https://t.co/ZeqJwqGF8q @CasaReal @deportegob @Reginoherma @alejanvalverde…;;;4,0;1366871853554368514
+2021-03-02 23:03:17;ElPardo_Madrid;471449880;;-1;es;"<a href=""http://twitter.com/download/android"" rel=""nofollow"">Twitter for Android</a>";RT @ElPardo_Madrid: Premios Nacionales del #Deporte en #ElPardo: https://t.co/ZeqJwqGF8q @CasaReal @deportegob @Reginoherma @alejanvalverde…;;;4,0;1366871759484518400
+2021-03-02 15:31:57;ElPardo_Madrid;471449880;;-1;es;"<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>";Premios Nacionales del #Deporte en #ElPardo: https://t.co/ZeqJwqGF8q @CasaReal @deportegob @Reginoherma @alejanvalverde @AnaCarrasco_22 @jpastranabox @SabrinaVegaGut2 @F_Sanitas @TeamRojas45 @ujaen @SeFutbolFem @realmadrid @UEuropea @Ayto_DonBenito @ConsejoCOLEF @jcnavarroworld https://t.co/niB2YTxlN1;;;4,0;1366758178919170060
+2021-02-28 12:46:04;Haciendo Historia;911685643608174592;;-1;es;"<a href=""http://twitter.com/download/iphone"" rel=""nofollow"">Twitter for iPhone</a>";RT @AlbertoArcosWeb: @DavidBotello4 @OtraHistoriaTM @ondamadrid @juanjoceballos @CSanchez_Risco @sariperli @GuilleGamboaMon @aariztoy @espe…;;;4,0;1365991658253352961
+2021-02-28 11:10:02;Yolanda Rocha Moreno;167496092;;-1;es;"<a href=""http://twitter.com/download/android"" rel=""nofollow"">Twitter for Android</a>";"RT @DavidBotello4: Y ya estamos con Rosa Gonzáles, estudiante de la @UEuropea, que nos habla del teatro de Buero Vallejo.
+#ConcepciónArenal…";;;4,0;1365967488534642693
+2021-02-28 10:55:31;Antiguos Cafés de Madrid;497308097;;-1;es;"<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>";"RT @DavidBotello4: Y ya estamos con Rosa Gonzáles, estudiante de la @UEuropea, que nos habla del teatro de Buero Vallejo.
+#ConcepciónArenal…";;;4,0;1365963835782406144
+2021-02-28 10:45:55;Esto es otra Historia TM;3021672539;;-1;es;"<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>";"RT @DavidBotello4: Y ya estamos con Rosa Gonzáles, estudiante de la @UEuropea, que nos habla del teatro de Buero Vallejo.
+#ConcepciónArenal…";;;4,0;1365961418583998464
+2021-02-28 10:39:58;Esperanza ??????;107779004;;-1;es;"<a href=""http://twitter.com/download/android"" rel=""nofollow"">Twitter for Android</a>";"RT @DavidBotello4: Y ya estamos con Rosa Gonzáles, estudiante de la @UEuropea, que nos habla del teatro de Buero Vallejo.
+#ConcepciónArenal…";;;4,0;1365959924509999110
+2021-02-28 10:34:38;David Botello;551517133;;-1;es;"<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>";"Y ya estamos con Rosa Gonzáles, estudiante de la @UEuropea, que nos habla del teatro de Buero Vallejo.
+#ConcepciónArenal en @OtraHistoriaTM en @ondamadrid
+Si lo escuchas en la web: https://t.co/Mh4rQqTpfy
+Y si lo oyes en la radio: 101.3 y 106 FM https://t.co/tfGxjHwodc";;;4,0;1365958580004913152
+2021-02-27 23:53:53;David Botello;551517133;;-1;es;"<a href=""http://twitter.com/download/iphone"" rel=""nofollow"">Twitter for iPhone</a>";RT @AlbertoArcosWeb: @DavidBotello4 @OtraHistoriaTM @ondamadrid @juanjoceballos @CSanchez_Risco @sariperli @GuilleGamboaMon @aariztoy @espe…;;;4,0;1365797331522707457
+2021-02-27 23:53:45;Carmen Sánchez-Risco;410740547;;-1;es;"<a href=""http://twitter.com/download/iphone"" rel=""nofollow"">Twitter for iPhone</a>";RT @AlbertoArcosWeb: @DavidBotello4 @OtraHistoriaTM @ondamadrid @juanjoceballos @CSanchez_Risco @sariperli @GuilleGamboaMon @aariztoy @espe…;;;4,0;1365797298178031616
+2021-02-27 23:00:27;Esther Sánchez;946758764;;-1;es;"<a href=""http://twitter.com/download/android"" rel=""nofollow"">Twitter for Android</a>";RT @AlbertoArcosWeb: @DavidBotello4 @OtraHistoriaTM @ondamadrid @juanjoceballos @CSanchez_Risco @sariperli @GuilleGamboaMon @aariztoy @espe…;;;4,0;1365783885196505090
+2021-02-27 22:44:35;Alberto Arcos;192593369;DavidBotello4;551517133;es;"<a href=""http://twitter.com/download/iphone"" rel=""nofollow"">Twitter for iPhone</a>";@DavidBotello4 @OtraHistoriaTM @ondamadrid @juanjoceballos @CSanchez_Risco @sariperli @GuilleGamboaMon @aariztoy @espeversity @EdgarmjDirector @estesan1969 @UEuropea @HHistoriaTV #ConcepcionArenal familiar de una de las directoras de @TeatroGuirigai #MagdaGarciaArenal ??;;;4,0;1365779891011129345
+2021-03-05 21:56:26;Reme;798394423;;-1;es;"<a href=""http://twitter.com/download/android"" rel=""nofollow"">Twitter for Android</a>";"RT @ffpaciente: ??Atentos??Hoy recordamos Conexión Paciente Oncológico??@UEuropea @RespSocialUE @soriano 
+
+????Debate a 3 en #YoutubeLive 
+
+??P…";;;3,0;1367942098540969989
+2021-03-05 16:27:35;Pedro Soriano ?? #FFPaciente;237839609;;-1;es;"<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>";"RT @ffpaciente: ??Atentos??Hoy recordamos Conexión Paciente Oncológico??@UEuropea @RespSocialUE @soriano 
+
+????Debate a 3 en #YoutubeLive 
+
+??P…";;;3,0;1367859341194321920
+2021-03-05 14:30:48;Arantxa Sáez ??????+??+ ????????????????+??;347796969;;-1;es;"<a href=""http://twitter.com/#!/download/ipad"" rel=""nofollow"">Twitter for iPad</a>";"RT @ffpaciente: ??Conexión Paciente, 3?? Opiniones 1?? Dirección ?? @UEuropea @RespSocialUE @soriano @rutinoterapia @_SEEO_
+
+¿¿Cómo es la e…";;;3,0;1367829951815290881
+2021-03-05 14:29:22;Tania NeuroNurse;909757117564903424;;-1;es;"<a href=""http://twitter.com/download/android"" rel=""nofollow"">Twitter for Android</a>";"RT @ffpaciente: ??Conexión Paciente, 3?? Opiniones 1?? Dirección ?? @UEuropea @RespSocialUE @soriano @rutinoterapia @_SEEO_
+
+¿¿Cómo es la e…";;;3,0;1367829591335833601
+2021-03-05 12:50:28;Dory Rosado;1048213144777252864;;-1;es;"<a href=""http://twitter.com/download/android"" rel=""nofollow"">Twitter for Android</a>";"RT @ffpaciente: ??Conexión Paciente, 3?? Opiniones 1?? Dirección ?? @UEuropea @RespSocialUE @soriano @rutinoterapia @_SEEO_
+
+¿¿Cómo es la e…";;;3,0;1367804704256823296
+2021-03-05 12:30:00;#FFPaciente;3964381883;;-1;es;"<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>";"??Conexión Paciente, 3?? Opiniones 1?? Dirección ?? @UEuropea @RespSocialUE @soriano @rutinoterapia @_SEEO_
+
+¿¿Cómo es la espera de los resultados????... Ana Belén, paciente de cáncer de mama, nos lo cuenta en #ConexiónPaciente. 
+
+??https://t.co/n3mGZAPy0d
+
+#FFPaciente https://t.co/aEbp9YqEzy";;;3,0;1367799553303273474
+2021-03-05 11:30:24;Beatriz Cuñado ??;562917861;;-1;es;"<a href=""http://twitter.com/download/android"" rel=""nofollow"">Twitter for Android</a>";"RT @ffpaciente: ??Atentos??Hoy recordamos Conexión Paciente Oncológico??@UEuropea @RespSocialUE @soriano 
+
+????Debate a 3 en #YoutubeLive 
+
+??P…";;;3,0;1367784555697016832
+2021-03-05 11:30:00;#FFPaciente;3964381883;;-1;es;"<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>";"??Atentos??Hoy recordamos Conexión Paciente Oncológico??@UEuropea @RespSocialUE @soriano 
+
+????Debate a 3 en #YoutubeLive 
+
+??Profesional-alumno-paciente charlan... ""Tres opiniones, una dirección""
+
+??https://t.co/n3mGZAPy0d
+
+#ConexionPaciente #FFPaciente #AnteTodoPersonas https://t.co/dX7fiR3BCd";;;3,0;1367784454161240065
+2021-03-04 21:33:31;Reme;798394423;;-1;es;"<a href=""http://twitter.com/download/android"" rel=""nofollow"">Twitter for Android</a>";"RT @soriano_p: ""Pensamiento crítico""  me está encantando este directo de la @UEuropea con el título ""¿Cómo protegerse de las fake news? Pau…";;;3,0;1367573944073670661
+2021-03-04 14:32:14;Tania NeuroNurse;909757117564903424;;-1;es;"<a href=""http://twitter.com/download/android"" rel=""nofollow"">Twitter for Android</a>";"RT @soriano_p: ""Pensamiento crítico""  me está encantando este directo de la @UEuropea con el título ""¿Cómo protegerse de las fake news? Pau…";;;3,0;1367467926257872899
+2021-03-04 10:56:31;Beatriz Cuñado ??;562917861;;-1;es;"<a href=""http://twitter.com/download/android"" rel=""nofollow"">Twitter for Android</a>";"RT @soriano_p: ""Pensamiento crítico""  me está encantando este directo de la @UEuropea con el título ""¿Cómo protegerse de las fake news? Pau…";;;3,0;1367413640748560384
+2021-03-04 10:54:55;Pedro Soriano ?? #FFPaciente;237839609;;-1;es;"<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>";"""Pensamiento crítico""  me está encantando este directo de la @UEuropea con el título ""¿Cómo protegerse de las fake news? Pautas para informarse en la época de la posverdad""
+
+https://t.co/p7aIULAMmc
+
+¡Entra!";;;3,0;1367413234765082624
+2021-02-28 16:18:29;Esther Sánchez;946758764;;-1;es;"<a href=""http://twitter.com/download/android"" rel=""nofollow"">Twitter for Android</a>";RT @AlbertoArcosWeb: @DavidBotello4 @OtraHistoriaTM @ondamadrid @juanjoceballos @CSanchez_Risco @sariperli @GuilleGamboaMon @aariztoy @espe…;;;3,0;1366045113575763973
+2021-02-28 13:26:46;David Botello;551517133;;-1;es;"<a href=""http://twitter.com/download/iphone"" rel=""nofollow"">Twitter for iPhone</a>";RT @AlbertoArcosWeb: @DavidBotello4 @OtraHistoriaTM @ondamadrid @juanjoceballos @CSanchez_Risco @sariperli @GuilleGamboaMon @aariztoy @espe…;;;3,0;1366001901159002117
+2021-02-28 12:46:05;Haciendo Historia;911685643608174592;;-1;es;"<a href=""http://twitter.com/download/iphone"" rel=""nofollow"">Twitter for iPhone</a>";RT @AlbertoArcosWeb: @DavidBotello4 @OtraHistoriaTM @ondamadrid @juanjoceballos @CSanchez_Risco @sariperli @GuilleGamboaMon @aariztoy @espe…;;;3,0;1365991660874776582
+2021-02-28 12:36:01;Alberto Arcos;192593369;DavidBotello4;551517133;es;"<a href=""http://twitter.com/download/iphone"" rel=""nofollow"">Twitter for iPhone</a>";@DavidBotello4 @OtraHistoriaTM @ondamadrid @juanjoceballos @CSanchez_Risco @sariperli @GuilleGamboaMon @aariztoy @espeversity @EdgarmjDirector @estesan1969 @UEuropea @HHistoriaTV @TeatroGuirigai Su sangre y sus vivencias........??;;;3,0;1365989129117392898
+2021-03-06 19:49:47;Anabel Learte;1016079560;;-1;es;"<a href=""http://twitter.com/download/iphone"" rel=""nofollow"">Twitter for iPhone</a>";RT @rocioglezsol: Nuevos proyectos para el curso 2021/22. Dirección MU Bioinformatica en la @UEuropea (oficial y online 100%). Enfoque inve…;;;2,0;1368272613768839168
+2021-03-06 17:45:45;Eduardo Rafael Galue Mozo;823682948;;-1;es;"<a href=""http://twitter.com/download/android"" rel=""nofollow"">Twitter for Android</a>";RT @rocioglezsol: Nuevos proyectos para el curso 2021/22. Dirección MU Bioinformatica en la @UEuropea (oficial y online 100%). Enfoque inve…;;;2,0;1368241400177917956
+2021-03-06 17:40:34;Rocio Gonzalez;215001102;;-1;es;"<a href=""http://twitter.com/download/android"" rel=""nofollow"">Twitter for Android</a>";Nuevos proyectos para el curso 2021/22. Dirección MU Bioinformatica en la @UEuropea (oficial y online 100%). Enfoque investigacion clinica y acceso doctorado. Descuento importante esta semana #bioinformaticaclinica #healthdatascientist #medicinadeprecision https://t.co/Iu6CHtbZqp;;;2,0;1368240097871663114
+2021-03-04 21:52:07;Rakel;540740563;;-1;es;"<a href=""http://twitter.com/download/android"" rel=""nofollow"">Twitter for Android</a>";RT @colegio_rcajal: En época de exámenes nada como una charla formativa online para nuestros alumnos de #2ºBach sobre la gestión del estrés…;;;2,0;1367578624883363855
+2021-03-04 18:17:51;Emma C. Lope;1013175657310941185;;-1;es;"<a href=""http://twitter.com/download/iphone"" rel=""nofollow"">Twitter for iPhone</a>";"RT @ellasvuelanalto: Esta tarde estaremos con #EVAenlasAulas en la @UEuropea.
+@_TeresaBusto, @LauraMonclus y @1SilviaVelaRuiz se encontrará…";;;2,0;1367524702353301512
+2021-03-04 17:37:46;Rafael Monterroso GA;1420034443;;-1;es;"<a href=""http://twitter.com/download/iphone"" rel=""nofollow"">Twitter for iPhone</a>";RT @colegio_rcajal: En época de exámenes nada como una charla formativa online para nuestros alumnos de #2ºBach sobre la gestión del estrés…;;;2,0;1367514617073831938
+2021-03-04 17:16:23;Cole Ramón y Cajal;249656428;;-1;es;"<a href=""http://twitter.com/download/iphone"" rel=""nofollow"">Twitter for iPhone</a>";En época de exámenes nada como una charla formativa online para nuestros alumnos de #2ºBach sobre la gestión del estrés y la ansiedad @UEuropea @UEuropeaOnline https://t.co/5BDuEr8VDs;;;2,0;1367509233554620416
+2021-03-04 13:37:26;Laura Monclus Rincon;2895191181;;-1;es;"<a href=""http://twitter.com/download/android"" rel=""nofollow"">Twitter for Android</a>";"RT @ellasvuelanalto: Esta tarde estaremos con #EVAenlasAulas en la @UEuropea.
+@_TeresaBusto, @LauraMonclus y @1SilviaVelaRuiz se encontrará…";;;2,0;1367454135612809220
+2021-03-04 13:35:37;Ellasvuelanalto;905719502264037376;;-1;es;"<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>";"Esta tarde estaremos con #EVAenlasAulas en la @UEuropea.
+@_TeresaBusto, @LauraMonclus y @1SilviaVelaRuiz se encontrarán virtualmente con los estudiantes. ¡Todavía hay plazas!
+
+??@UEuropea
+??Jueves, 4 de marzo.
+??17.30 horas
+??https://t.co/yiCe1BdkXB";;;2,0;1367453678244933645
+2021-03-03 19:41:46;alexia lario;4106735122;;-1;es;"<a href=""http://twitter.com/download/android"" rel=""nofollow"">Twitter for Android</a>";RT @ADEFARMA: Finalistas Premios TFG Excelencia Bidafarma @UEuropea  @uchceu @unicomplutense @UAHes @UFVComunicacion @uaxuniversidad @BidaF…;;;2,0;1367183433638772736
+2021-03-03 16:04:08;Bidafarma;728237763041103872;;-1;es;"<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>";RT @ADEFARMA: Finalistas Premios TFG Excelencia Bidafarma @UEuropea  @uchceu @unicomplutense @UAHes @UFVComunicacion @uaxuniversidad @BidaF…;;;2,0;1367128667000877056
+2021-03-03 14:46:18;ADEFARMA;372157731;;-1;es;"<a href=""http://twitter.com/download/iphone"" rel=""nofollow"">Twitter for iPhone</a>";Finalistas Premios TFG Excelencia Bidafarma @UEuropea  @uchceu @unicomplutense @UAHes @UFVComunicacion @uaxuniversidad @BidaFarma https://t.co/uaimcSYRm2;;;2,0;1367109079416664067
+2021-03-02 12:42:25;SENASA;239739878;;-1;es;"<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>";"RT @ellasvuelanalto: Estrenamos mes de marzo y seguimos con los encuentros de #EVAenlasAulas. Esta semana estaremos en:
+
+??@uaxuniversidad…";;;2,0;1366715515796914176
+2021-03-01 23:36:47;Bárbara Trincado;302261044;;-1;es;"<a href=""http://twitter.com/download/iphone"" rel=""nofollow"">Twitter for iPhone</a>";"RT @ellasvuelanalto: Estrenamos mes de marzo y seguimos con los encuentros de #EVAenlasAulas. Esta semana estaremos en:
+
+??@uaxuniversidad…";;;2,0;1366517804237803524
+2021-03-01 12:24:23;Ellasvuelanalto;905719502264037376;;-1;es;"<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>";"Estrenamos mes de marzo y seguimos con los encuentros de #EVAenlasAulas. Esta semana estaremos en:
+
+??@uaxuniversidad 
+??Miércoles, 3 de marzo.
+??11.00 horas.
+??https://t.co/9V5QzD2AYL
+
+??@UEuropea
+??Jueves, 4 de marzo.
+??17.30 horas
+??https://t.co/yiCe1BdkXB https://t.co/nyeBd3CEm4";;;2,0;1366348586368323587
+2021-02-28 16:18:27;Esther Sánchez;946758764;;-1;es;"<a href=""http://twitter.com/download/android"" rel=""nofollow"">Twitter for Android</a>";RT @DavidBotello4: @AlbertoArcosWeb @OtraHistoriaTM @ondamadrid @juanjoceballos @CSanchez_Risco @sariperli @GuilleGamboaMon @aariztoy @espe…;;;2,0;1366045104843223042
+2021-02-28 12:46:05;Haciendo Historia;911685643608174592;;-1;es;"<a href=""http://twitter.com/download/iphone"" rel=""nofollow"">Twitter for iPhone</a>";RT @DavidBotello4: @AlbertoArcosWeb @OtraHistoriaTM @ondamadrid @juanjoceballos @CSanchez_Risco @sariperli @GuilleGamboaMon @aariztoy @espe…;;;2,0;1365991659696185344
+2021-02-28 11:04:16;Haciendo Historia;911685643608174592;;-1;es;"<a href=""http://twitter.com/download/iphone"" rel=""nofollow"">Twitter for iPhone</a>";RT @CSanchez_Risco: @bmonte66 @DavidBotello4 @OtraHistoriaTM @ondamadrid @juanjoceballos @sariperli @GuilleGamboaMon @aariztoy @espeversity…;;;2,0;1365966039096377348
+2021-02-28 10:45:18;David Botello;551517133;;-1;es;"<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>";RT @CSanchez_Risco: @bmonte66 @DavidBotello4 @OtraHistoriaTM @ondamadrid @juanjoceballos @sariperli @GuilleGamboaMon @aariztoy @espeversity…;;;2,0;1365961264573390848
+2021-02-28 10:44:33;Carmen Sánchez-Risco;410740547;bmonte66;302925882;es;"<a href=""http://twitter.com/download/iphone"" rel=""nofollow"">Twitter for iPhone</a>";@bmonte66 @DavidBotello4 @OtraHistoriaTM @ondamadrid @juanjoceballos @sariperli @GuilleGamboaMon @aariztoy @espeversity @EdgarmjDirector @estesan1969 @UEuropea @HHistoriaTV Gracias a ti por estar ahi ??????????????;;;2,0;1365961076161011712
+2021-02-27 23:54:29;David Botello;551517133;AlbertoArcosWeb;192593369;es;"<a href=""http://twitter.com/download/iphone"" rel=""nofollow"">Twitter for iPhone</a>";@AlbertoArcosWeb @OtraHistoriaTM @ondamadrid @juanjoceballos @CSanchez_Risco @sariperli @GuilleGamboaMon @aariztoy @espeversity @EdgarmjDirector @estesan1969 @UEuropea @HHistoriaTV @TeatroGuirigai Qué suerte, llevar esa sangre corriendo por sus venas ??;;;2,0;1365797479699070977
+2021-02-27 17:03:58;Esther Sánchez;946758764;;-1;es;"<a href=""http://twitter.com/download/android"" rel=""nofollow"">Twitter for Android</a>";RT @aariztoy: @DavidBotello4 @OtraHistoriaTM @ondamadrid @juanjoceballos @CSanchez_Risco @sariperli @GuilleGamboaMon @espeversity @EdgarmjD…;;;2,0;1365694171194003459
+2021-02-27 16:13:12;David Botello;551517133;;-1;es;"<a href=""http://twitter.com/download/iphone"" rel=""nofollow"">Twitter for iPhone</a>";RT @aariztoy: @DavidBotello4 @OtraHistoriaTM @ondamadrid @juanjoceballos @CSanchez_Risco @sariperli @GuilleGamboaMon @espeversity @EdgarmjD…;;;2,0;1365681394379292674
+2021-02-27 15:42:07;Pasaba por aquí;394240386;DavidBotello4;551517133;es;"<a href=""http://twitter.com/download/android"" rel=""nofollow"">Twitter for Android</a>";@DavidBotello4 @OtraHistoriaTM @ondamadrid @juanjoceballos @CSanchez_Risco @sariperli @GuilleGamboaMon @espeversity @EdgarmjDirector @estesan1969 @UEuropea @HHistoriaTV Tú viajas en el tiempo y no nos lo cuentas.... ??;;;2,0;1365673575231946753
+2021-03-05 23:47:26;Isabel H. Casaus;4227760768;;-1;es;"<a href=""http://twitter.com/download/android"" rel=""nofollow"">Twitter for Android</a>";"RT @masfamilia: ??¿Quieres amplia tu formación en #teletrabajo?
+Lanzamos la 1º edición del #Curso experto en trabajo flexible, en colaboraci…";;;1,0;1367970033440284680
+2021-03-05 19:18:25;José Luis Alonso;986767496;;-1;es;"<a href=""http://twitter.com/download/iphone"" rel=""nofollow"">Twitter for iPhone</a>";"RT @terapiamanualUE: ? CONGRESO?
+?? Estamos encantados de presentar en la XXXI Jornadas de Fisioterapia de la ONCE un nuevo trabajo de #inve…";;;1,0;1367902334169317376
+2021-03-05 17:02:08;Terapia Manual UE;3218183229;;-1;es;"<a href=""https://www.hootsuite.com"" rel=""nofollow"">Hootsuite Inc.</a>";"? CONGRESO?
+?? Estamos encantados de presentar en la XXXI Jornadas de Fisioterapia de la ONCE un nuevo trabajo de #investigacion de @terapiamanualUE fruto de la colaboración entre el claustro y nuestros brillantes alumnos de #MUTMO #RV #cancer #salud
+@UEuropea @UECanarias https://t.co/MP1Go2eQgU";;;1,0;1367868036812845058
+2021-03-05 08:00:13;#FFPaciente;3964381883;;-1;es;"<a href=""http://twitter.com/download/iphone"" rel=""nofollow"">Twitter for iPhone</a>";RT @rutinoterapia: Os dejamos #conexiónpaciente de la @UEuropea donde participamos como paciente con otros dos expertos resolviendo dudas y…;;;1,0;1367731660125593602
+2021-03-04 13:10:23;Sebastián Martín-Pérez;913788360233189376;;-1;es;"<a href=""http://twitter.com/download/iphone"" rel=""nofollow"">Twitter for iPhone</a>";"??PAIN REVIEW 2021??
+??No te pierdas este evento de referencia en la que participan dos de nuestros docentes de Master #MUTMO @terapiamanualUE @UEuropea @Sedolor @urjc https://t.co/s7AoJT3ZWM";;;1,0;1367447328060276744
+2021-03-03 22:13:47;Maria de la Serna;410903240;;-1;es;"<a href=""http://twitter.com/#!/download/ipad"" rel=""nofollow"">Twitter for iPad</a>";RT @MariaPSC: Hoy en el #KioskodelProtocolo hemos hablado de esas celebraciones raras que hay en los calendarios y también de santos https:…;;;1,0;1367221688870596608
+2021-03-02 22:05:22;Anne Shirley;1381730876;;-1;es;"<a href=""http://twitter.com/download/android"" rel=""nofollow"">Twitter for Android</a>";"RT @SusanadelsReyes: ""Butragueño recogió este galardón que reconoce a la persona o entidad que destaca por su contribución a tareas de prom…";;;1,0;1366857186794758144
+2021-03-02 21:38:52;Susana de los Reyes;845772271;;-1;es;"<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>";"""Butragueño recogió este galardón que reconoce a la persona o entidad que destaca por su contribución a tareas de promoción y fomento del deporte""
+
+https://t.co/n4AAhmtoqf
+
+@RealMadridUE 
+@UEuropea";;;1,0;1366850514433044481
+2021-03-02 20:00:02;María Gómez;903905592;;-1;es;"<a href=""https://about.twitter.com/products/tweetdeck"" rel=""nofollow"">TweetDeck</a>";Hoy en el #KioskodelProtocolo hemos hablado de esas celebraciones raras que hay en los calendarios y también de santos https://t.co/toynwCyBs0 @europeamedia @UEuropea @MartaEscuderoLC @maritaserna #CsillaFelföldy #MateosPizarroRosita #martesderadio;;;1,0;1366825643061649408
+2021-03-02 15:23:38;Rutinoterapia | Escuela de Pacientes Oncológicos;1092432730892263426;;-1;es;"<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>";"Os dejamos #conexiónpaciente de la @UEuropea donde participamos como paciente con otros dos expertos resolviendo dudas y hablando un poco del tema bajo dos puntos de vista #ffpaciente @soriano_p @domenech_nuria Maria 
+Conexión Paciente Oncológico https://t.co/RN4mvqRbv5";;;1,0;1366756085764390916
+2021-03-02 13:00:00;Fundación Masfamilia;253576885;;-1;es;"<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>";"??¿Quieres amplia tu formación en #teletrabajo?
+Lanzamos la 1º edición del #Curso experto en trabajo flexible, en colaboración con @UEuropea y con el apoyo de @BICGtweets
+??Formato telepresencial
+??Programa: 12 módulos
+??Más info: https://t.co/CLcxE7dTlS https://t.co/U0FkFwzMj0";;;1,0;1366719938262683651
+2021-03-02 11:47:27;Soraya Muñoz;328428297;;-1;es;"<a href=""http://twitter.com/download/android"" rel=""nofollow"">Twitter for Android</a>";RT @juanjobeunza: Se busca candidato pre-doc contratación TP (10 h/sem 550€/mes) desarrollo de prototipo #IoT detección insuf resp paciente…;;;1,0;1366701681883414528
+2021-03-02 09:41:17;Juanjo Beunza;260815572;;-1;es;"<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>";"Se busca candidato pre-doc contratación TP (10 h/sem 550€/mes) desarrollo de prototipo #IoT detección insuf resp pacientes #COVID19 #EPOC
+Requiere experiencia IoT y nube (#GCP). 15/3-31/08 extensible
+Enviar resumen experiencia y CV juanjo@juanjobeunza.com antes 5/3
+@UEuropea https://t.co/R2f6ug0E2s";;;1,0;1366669931165614080
+2021-02-28 12:24:24;David Botello;551517133;;-1;es;"<a href=""http://twitter.com/download/iphone"" rel=""nofollow"">Twitter for iPhone</a>";RT @HHistoriaTV: En gran Buero Vallejo! @europearadio1 @UEuropea @juanjoceballos @DavidBotello4 @estesan1969;;;1,0;1365986204232126465
+2021-02-28 11:19:40;Haciendo Historia;911685643608174592;;-1;es;"<a href=""http://twitter.com/download/iphone"" rel=""nofollow"">Twitter for iPhone</a>";En gran Buero Vallejo! @europearadio1 @UEuropea @juanjoceballos @DavidBotello4 @estesan1969 https://t.co/bfcWV2wZh7;;;1,0;1365969913005957120
+2021-02-28 10:08:28;Esther Sánchez;946758764;;-1;es;"<a href=""http://twitter.com/download/android"" rel=""nofollow"">Twitter for Android</a>";RT @DavidBotello4: @bmonte66 @OtraHistoriaTM @ondamadrid @juanjoceballos @CSanchez_Risco @sariperli @GuilleGamboaMon @aariztoy @espeversity…;;;1,0;1365951994503065600
+2021-02-28 10:06:15;David Botello;551517133;bmonte66;302925882;es;"<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>";@bmonte66 @OtraHistoriaTM @ondamadrid @juanjoceballos @CSanchez_Risco @sariperli @GuilleGamboaMon @aariztoy @espeversity @EdgarmjDirector @estesan1969 @UEuropea @HHistoriaTV Gracias a ti, Bego! ????;;;1,0;1365951437746929668
+2021-02-27 18:18:55;Julio C. Lago;3218075212;;-1;es;"<a href=""http://twitter.com/#!/download/ipad"" rel=""nofollow"">Twitter for iPad</a>";"RT @primfisio: Este finde no paramos, acompañando con nuestra #fisiotecnología la formación más avanzada en fisioterapia.
+
+Estamos en la @U…";;;1,0;1365713034887462912
+2021-02-27 17:04:00;Esther Sánchez;946758764;;-1;es;"<a href=""http://twitter.com/download/android"" rel=""nofollow"">Twitter for Android</a>";RT @DavidBotello4: @aariztoy @OtraHistoriaTM @ondamadrid @juanjoceballos @CSanchez_Risco @sariperli @GuilleGamboaMon @espeversity @EdgarmjD…;;;1,0;1365694181520396293
+2021-02-27 16:13:26;David Botello;551517133;aariztoy;394240386;es;"<a href=""http://twitter.com/download/iphone"" rel=""nofollow"">Twitter for iPhone</a>";@aariztoy @OtraHistoriaTM @ondamadrid @juanjoceballos @CSanchez_Risco @sariperli @GuilleGamboaMon @espeversity @EdgarmjDirector @estesan1969 @UEuropea @HHistoriaTV Jajaja! Eso será ??;;;1,0;1365681452956975105
+2021-02-27 11:35:03;PRIM Physio;3306739330;;-1;es;"<a href=""http://twitter.com/download/android"" rel=""nofollow"">Twitter for Android</a>";"Este finde no paramos, acompañando con nuestra #fisiotecnología la formación más avanzada en fisioterapia.
+
+Estamos en la @UEuropea de Madrid con nuestros equipos #PhenixLiberty, apoyando las sesiones que está impartiendo  la profesora Asunción Ferri en el Máster de #SueloPélvico https://t.co/q7SvuzaHh2";;;1,0;1365611396487143428
+2021-02-27 08:46:43;cristian escudero;2169094478;;-1;es;"<a href=""http://twitter.com/download/android"" rel=""nofollow"">Twitter for Android</a>";"RT @javierbutra: Un placer compartir esta charla con la Escuela Universitaria Real Madrid-Universidad Europea @UEuropea  
+webinars transdis…";;;1,0;1365569034931027969
+2021-02-26 22:10:42;AEMUEM;2474346608;;-1;es;"<a href=""http://twitter.com/download/android"" rel=""nofollow"">Twitter for Android</a>";RT @AliciaRomeroLor: Alumnos de #Medicina de la @UEuropea , @AEMUEM , mirad, nuestro paciente con favismo.;;;1,0;1365408973717921794
+2021-02-26 22:04:46;Sebastián Martín-Pérez;913788360233189376;;-1;es;"<a href=""http://twitter.com/download/iphone"" rel=""nofollow"">Twitter for iPhone</a>";RT @gmolic: El conocimiento sobre la relación de nuestro sistema digestivo y el dolor no parara de crecer en los próximos años! Gran trabaj…;;;1,0;1365407482001166340
+2021-02-26 20:11:27;Guillermo Molinero;562966442;;-1;es;"<a href=""http://twitter.com/download/iphone"" rel=""nofollow"">Twitter for iPhone</a>";El conocimiento sobre la relación de nuestro sistema digestivo y el dolor no parara de crecer en los próximos años! Gran trabajo equipo! @terapiamanualUE @UEuropea #investigacion #fisioterapia #nutricion #dieta #artrosis #rodilla https://t.co/c2EY0FSbCN;;;1,0;1365378964831825921
+2021-03-06 10:42:41;Gabriel Calderon Pellegrino;810102255210872832;;-1;es;"<a href=""http://twitter.com/download/iphone"" rel=""nofollow"">Twitter for iPhone</a>";Gracias Butragueño @UEuropea @RealMadridUE por la confianza y el gran trabajo en un año tan extraordinario. Reconocimiento a los alumnos, profesores, ponentes y @asanchezvara ????????? https://t.co/sYhTNv2ovO;;;,0;1368134934523740164
+2021-03-05 23:05:52;Susana de los Reyes;845772271;;-1;es;"<a href=""http://twitter.com/download/iphone"" rel=""nofollow"">Twitter for iPhone</a>";Hoy @UEuropea la @RealMadridUE trae una sesión de Deporte con Propósito, un ejemplo, un referente, un gran aprendizaje de vida con José José Manuel López I’MPOSSIBLE https://t.co/bVy7Sn2Ezf;;;,0;1367959575014563840
+2021-03-05 19:24:01;Mirka Plasencia ??;422769971;OscarDS;70144895;es;"<a href=""http://twitter.com/download/android"" rel=""nofollow"">Twitter for Android</a>";@OscarDS @RealMadridUE @UEuropea Orgullo.;;;,0;1367903745464500226
+2021-03-05 19:22:20;OscarDS;70144895;;-1;es;"<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>";"Absolutamente felices de haber recibido el Premio Nacional del Deporte en @RealMadridUE 
+
+Muy agradecidos por la carta que nos ha enviado Emilio #Butragueño a todos los profesores y formadores. @UEuropea #RealMadrid https://t.co/Ad9bLHgCBw";;;,0;1367903319713341441
+2021-03-05 19:00:53;IESDiegoVelazquez;954310866593353728;IESDiegoV;954310866593353728;und;"<a href=""http://twitter.com/download/android"" rel=""nofollow"">Twitter for Android</a>";"@acadefescuela @UEuropea @policia @Univ_Villanueva 
+@uaxuniversidad @SLUMadrid @Defensagob @UCOMILLAS @EUHTStPOL";;;,0;1367897922021494791
+2021-03-05 13:26:14;Vecina Centro Madrid;1116756118745821185;UEuropea;20979797;es;"<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>";@UEuropea necesito mi expediente! llevo con el tramite desde el 11 de diciembre, me habéis pasado de un departamento a otro sin resultado. Tasas pagadas. No recibo ninguna respuesta vuetra por mail. Tampoco contesta el departamento Internacional.#universidad#estudiantes#madrid;;;,0;1367813705472344064
+2021-03-05 11:30:16;Susana Ramiro;440281113;colegio_rcajal;249656428;es;"<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>";@colegio_rcajal @UEuropea @UEuropeaOnline Pero que buenísima iniciativa! Muchas gracias! realmente lo necesitan. Bueno, lo necesitaríamos todos....;;;,0;1367784518741094401
+2021-03-05 10:16:31;Universidad Europea Deportes;790998412258865152;;-1;es;"<a href=""https://www.tumblr.com/"" rel=""nofollow"">Tumblr</a>";?? Cuanto agrado verles disfrutar con el nuevo material de @hammerstrengthofficial que @uedeportes y nuestra Facultad de Deportes ha añadido a las clases prácticas de TAFAD, CAFYD y Máster de @ueuropea . Esperamos que sigáis disfrutando de... https://t.co/GB73TKpsDk;;;,0;1367765959654731780
+2021-03-05 08:55:28;Juanjo Beunza;260815572;;-1;es;"<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>";"Cloud Española con sistema de seguridad descentralizado mediante blockchain.
+La probaremos (hay un servicio gratuito hasta 2GB), sin duda. En breve. :-)
+@Internxt @fvsegarra @UEuropea 
+https://t.co/cUWd4kVB1l https://t.co/r306fvteb6";;;,0;1367745562964033538
+2021-03-05 03:50:12;Vinícius Gomes;1367667243153244161;;-1;pt;"<a href=""http://twitter.com/download/android"" rel=""nofollow"">Twitter for Android</a>";"??Empresário e Consultor tributário
+??Esp. em Direito Tributário e Gestão Tributária
+??Estudei na @ueuropea de Madrid/????
+??@vgconsultoria_";;;,0;1367668740565966848
+2021-03-04 14:49:13;Silas Udenze;860436110;IN3_UOC;134754834;en;"<a href=""http://twitter.com/download/android"" rel=""nofollow"">Twitter for Android</a>";@IN3_UOC @UOCesalut @eHealthUOC @MartaAymerich @rubennietoluna @CarmeCarrion @colasjf @universitatURV @UEuropea @_RebecaPardo_ @SJDbarcelona_ca @UAM_Madrid @Beatriz_Sora I agree with this finding to a significant extent. In fact my mental health was overwhelmed due to the pandemic. Nice research!;;;,0;1367472201822334982
+2021-03-04 11:25:53;Pedro Soriano ?? #FFPaciente;237839609;asanjoseperez;547866141;es;"<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>";"@asanjoseperez me ha encantado la charla ""¿Cómo protegerse de las fake news? Pautas para informarse en la época de la posverdad"" en la @UEuropea 
+
+Muy buenos consejos para periodistas pero que sirven para la población general y las enfermeras también!!!
+
+https://t.co/p7aIULAMmc";;;,0;1367421031003152384
+2021-03-04 10:06:20;Michelle T. Gabuat ?;400920709;;-1;es;"<a href=""http://twitter.com/download/android"" rel=""nofollow"">Twitter for Android</a>";Una gran noticia para nuestra institución que refuerza el papel de liderazgo de la @RealMadridUE @UEuropea en la educación, la investigación y la profesionalización del deporte #OrgulloUE @UEuropeaOnline @ue_deportes https://t.co/bhB0DB2pqw;;;,0;1367401010302484482
+2021-03-03 20:39:33;Concepcionistas Ponferrada;2251779697;;-1;es;"<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>";Continuamos con la información de las universidades para seguir aclarando dudas sobre el futuro de los chicos de 2° de Bach, y hoy ha sido el turno de la @UEuropea. ?????????????? https://t.co/YiICOXZWvo;;;,0;1367197977476030464
+2021-03-03 20:01:52;ATEB;716606140637978624;;-1;es;"<a href=""https://www.hootsuite.com"" rel=""nofollow"">Hootsuite Inc.</a>";".@NuriaUC Presidenta de ATEB, @mrodlar1970 Directora del MUICCP de la @UEuropea y @AlbertoBardesi Director de la Asociación Técnica de Carreteras @ATC_PIARC , inauguraron la IV #JornadaATEB 
+
+https://t.co/ZVplKhFh8p https://t.co/W2FHp30x6l";;;,0;1367188492963504130
+2021-03-03 17:30:44;ConSalud.es;367210075;;-1;es;"<a href=""https://www.echobox.com"" rel=""nofollow"">Echobox</a>";#LupaSanitaria ?? La Cátedra @AsisaSalud – @UEuropea anuncia la convocatoria de ayudas a la investigación https://t.co/NSLekSu8MU;;;,0;1367150460411535361
+2021-03-03 14:48:33;Elena Santana Sosa;1116600925508947970;;-1;es;"<a href=""http://twitter.com/download/iphone"" rel=""nofollow"">Twitter for iPhone</a>";"Orgullosa de formar parte de este gran claustro, y de ayudar a formar a grandes profesionales.
+@UEuropea https://t.co/sAZYPVLgPd";;;,0;1367109643659526148
+2021-03-03 12:43:29;Acta Sanitaria;507624258;;-1;es;"<a href=""https://www.actasanitaria.com"" rel=""nofollow"">Acta Wordpress Blog</a>";Queda abierta la convocatoria de ayudas a la #investigación 2021 de la Cátedra de @AsisaSalud y @UEuropea - https://t.co/Plvx5sAMWx https://t.co/uMpOyGR0YL;;;,0;1367078169191317509
+2021-03-03 10:35:09;ADEFARMA;372157731;;-1;es;"<a href=""http://twitter.com/download/iphone"" rel=""nofollow"">Twitter for iPhone</a>";IV PREMIO A LA EXCELENCIA TRABAJO DE FIN DE GRADO DE FARMACIA ADEFARMA – BIDAFARMA. Preseleccionados @UEuropea @unicomplutense @uchceu @UFVComunicacion @UAHes @Fernando_UAX @uaxuniversidad @BidaFarma https://t.co/XTS6KCHkRi + info: https://t.co/RnQMOnlJ2j o adefarma@adefarma.es;;;,0;1367045872186515461
+2021-03-02 19:44:43;JOVREUM;3309193973;;-1;es;"<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>";"Si estás interesad@ en formarte en #artritispsoriasica consulta este curso de la @UEuropea : ""Experto en el diagnóstico y abordaje precoz de la Artritis Psoriásica"" https://t.co/cIkuNedkNN";;;,0;1366821788626407428
+2021-03-02 18:41:47;Gómez Córdoba | Abogados de Farmacia;500781986;;-1;es;"<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>";"??Un placer participar un año más en el Curso de Experto en Gestión de Oficinas de #Farmacia de @UEuropea 
+
+Rosa e Inmaculada Gómez Soto se han encargado de transmitir la experiencia del despacho. En marzo seguimos con más especialistas del #equipoGC ¡Gracias por la confianza!?? https://t.co/UN5q6GmJdv";;;,0;1366805950804484098
+2021-03-02 14:25:59;Apemi Asociación;1319171776442753025;UEuropea;20979797;es;"<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>";@UEuropea Hay que unir Voluntades, ésta es una ventana al éxito @APEMI.asociacion #innovacion #sinergia #negocio #formacion #salud #comunicacion #digital #tecnologia #deporte;;;,0;1366741575884296193
+2021-03-02 12:25:17;Antía André;344963899;Antiaandre;344963899;es;"<a href=""http://twitter.com/download/iphone"" rel=""nofollow"">Twitter for iPhone</a>";"Galardonados también 
+
+??@UEuropea
+??@Ayto_DonBenito
+??@ujaen 
+???????@F_Sanitas 
+???????@ConsejoCOLEF";;;,0;1366711203779796999
+2021-03-01 13:42:00;Ceadac;202976293;;-1;es;"<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>";"??Las relaciones entre autonomía personal y accesibilidad cognitiva en el entorno urbano para casos de Daño Cerebral Adquirido. Investigación de la @UEuropea de Madrid para Ceadac 
+Descarga el documento ?https://t.co/Sh6pKKzPP8 
+#dañocerebral #accesibilidad #dca #investigación https://t.co/w1Qxyi0Ndm";;;,0;1366368119611080704
+2021-03-01 13:33:47;Universidad Europea Deportes;790998412258865152;;-1;es;"<a href=""https://www.tumblr.com/"" rel=""nofollow"">Tumblr</a>";?? Mejor que mil días de estudio diligente es un día con un gran maestro. Que tú profesor de judo sea Subcampeón de #España puede ser una experiencia docente y deportiva extraordinariamente enriquecedora. Docente @ueuropea Prof. Raúl Díaz... https://t.co/jTOvGVhcIa;;;,0;1366366051974447104
+2021-03-01 11:58:26;somozadev;1214730837889110022;UEuropea;20979797;es;"<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>";@UEuropea Inteligencia Artificial;;;,0;1366342057980215297
+2021-02-28 14:17:08;Garfield +Plus Forever Cuba??;1307460238946308108;charanzova;2656533409;und;"<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>";@charanzova @parlamentoUE @UEuropea @UNHumanRights @Europarl_ES @AndaluciaVox @parcan @parlamentoNA @Parlamento_UY @Parlandino @USAGovEspanol @POTUS https://t.co/kZ8HKghqrU;;;,0;1366014575829798914
+2021-02-28 13:27:04;David Botello;551517133;AlbertoArcosWeb;192593369;es;"<a href=""http://twitter.com/download/iphone"" rel=""nofollow"">Twitter for iPhone</a>";@AlbertoArcosWeb @OtraHistoriaTM @ondamadrid @juanjoceballos @CSanchez_Risco @sariperli @GuilleGamboaMon @aariztoy @espeversity @EdgarmjDirector @estesan1969 @UEuropea @HHistoriaTV @TeatroGuirigai Pues más envidia todavía ??;;;,0;1366001976073461761
+2021-02-28 03:43:31;Garfield +Plus Forever Cuba??;1307460238946308108;;-1;es;"<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>";"#PresosPoliticos ""FRE"" Viva Cuba Libre ???? @mbachelet @parlamentoUE @UNHumanRights @UeEspana @UEuropea @unicef_es Gobierno d Cuba expone frente a las cámaras TV,niños vestidos de preso,sin abogados y autoculpandose ellos de actos bandalicos #Cuba viola derechos humanos básicos https://t.co/n7LIUIUbFp";;;,0;1365855121410826241
+2021-02-27 16:29:49;NI University España;1353305216591015936;;-1;es;"<a href=""http://twitter.com/download/iphone"" rel=""nofollow"">Twitter for iPhone</a>";Una nueva Universidad para una nueva realidad! ?@UdoFutebol? ?@UNICIDonline? ?@UEuropea? https://t.co/I6aRIWAJDT;;;,0;1365685579200008194
